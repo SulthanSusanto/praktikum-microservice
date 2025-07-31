@@ -28,6 +28,6 @@ sequelize
   });
 
 // Jalankan server
-app.listen(3000, () => {
-  console.log('🚀 Server jalan di http://localhost:3000');
+app.listen(4001, () => {
+  console.log('🚀 Server jalan di http://localhost:4001');
 });
